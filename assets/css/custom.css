@@ -1,3 +1,9 @@
 :root {
     --couleur-primaire : #42aa6d;
 }
+.conteneur {
+display: flex;
+justify-content: center;
+align-items: center;
+height: 50vh; 
+}
